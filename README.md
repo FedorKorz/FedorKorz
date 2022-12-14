@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FedorKorz
 - 👀 I’m interested in Software Testinng
 - 🌱 I’m currently learning Automation Testing / Project Management Tools
-- 📫 How to reach me fedorkorz@gmai.co,
+- 📫 How to reach me fedorkorz@gmai.com
 
 <!---
 FedorKorz/FedorKorz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

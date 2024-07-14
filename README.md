@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FedorKorz
-- 👀 I’m interested in Software Testinng / WebDev
+- 👀 I’m interested in Software Testing / WebDev
 - 🌱 I’m currently learning Automation Testing / Project Management Tools
 - 📫 How to reach me fedorkorz@gmai.com
 
